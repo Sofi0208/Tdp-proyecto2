@@ -1,0 +1,3 @@
+Minutas del proyecto 2, Tecnología de la programación 
+
+Asumo que el archivo de texto se ingresa correctamente, es decir con tamaño y signos correctos
